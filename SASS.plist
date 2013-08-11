@@ -720,7 +720,7 @@
     	<string>-webkit-column-break-inside</string>
         <string>-webkit-column-count</string>
         <string>-webkit-column-gap</string>
-        <stirng>-webkit-column-progression</string>
+        <string>-webkit-column-progression</string>
         <string>-webkit-column-rule</string>
         <string>-webkit-column-rule-color</string>
         <string>-webkit-column-rule-style</string>
