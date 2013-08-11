@@ -7,16 +7,16 @@
     <key>com.barebones.DocumentType</key>
     <string>CodelessLanguageModule</string>
     <key>BBLMLanguageCode</key>
-    <string><![CDATA[SASS]]></string>
+    <string>SASS</string>
     <key>BBLMLanguageDisplayName</key>
-    <string><![CDATA[SASS]]></string>
+    <string>SASS</string>
     <key>BBLMSuffixMap</key>
     <array>
         <dict>
             <key>BBLMLanguageSuffix</key>
-            <string><![CDATA[.sass]]></string>
+            <string>.sass</string>
 			<key>BBLMLanguageSuffix</key>
-			<string><![CDATA[.scss]]></string>
+			<string>.scss</string>
         </dict>
     </array>
     <key>BBLMColorsSyntax</key>
