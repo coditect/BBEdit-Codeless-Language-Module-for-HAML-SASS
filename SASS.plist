@@ -41,6 +41,15 @@
     <true/>
     <key>BBLMSupportsTextCompletion</key>
     <true/>
+    
+    <!-- Commenting/Uncommenting -->
+    <key>BBLMCommentLineDefault</key>
+    <string>//</string>
+    <key>BBLMCommentPrefixDefault</key>
+    <string>/*</string>
+    <key>BBLMCommentSuffixDefault</key>
+    <string>*/</string>
+	
 	<!-- Syntax highlighting -->
     <key>BBLMColorsSyntax</key>
     <true/>
