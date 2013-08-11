@@ -140,146 +140,6 @@
         <string>tt</string>
         <string>ul</string>
         <string>var</string>
-        <string>$added_bg_color</string>
-        <string>$added_color</string>
-        <string>$alt-text-color</string>
-        <string>$blueprint_button_active_background_color</string>
-        <string>$blueprint_button_active_border_color</string>
-        <string>$blueprint_button_active_font_color</string>
-        <string>$blueprint_button_background_color</string>
-        <string>$blueprint_button_border_color</string>
-        <string>$blueprint_button_font_color</string>
-        <string>$blueprint_button_font_family</string>
-        <string>$blueprint_button_hover_background_color</string>
-        <string>$blueprint_button_hover_border_color</string>
-        <string>$blueprint_button_hover_font_color</string>
-        <string>$blueprint_table_header_color</string>
-        <string>$blueprint_table_stripe_color</string>
-        <string>$error_bg_color</string>
-        <string>$error_border_color</string>
-        <string>$error_color</string>
-        <string>$feedback_border_color</string>
-        <string>$font_color</string>
-        <string>$header_color</string>
-        <string>$highlight_color</string>
-        <string>$link_active_color</string>
-        <string>$link_color</string>
-        <string>$link_focus_color</string>
-        <string>$link_hover_color</string>
-        <string>$link_visited_color</string>
-        <string>$loud_color</string>
-        <string>$notice_bg_color</string>
-        <string>$notice_border_color</string>
-        <string>$notice_color</string>
-        <string>$quiet_color</string>
-        <string>$removed_bg_color</string>
-        <string>$removed_color</string>
-        <string>$success_bg_color</string>
-        <string>$success_border_color</string>
-        <string>$success_color</string>
-        <string>+added</string>
-        <string>+alt</string>
-        <string>+alternating-rows-and-columns</string>
-        <string>+anchor-button</string>
-        <string>+append</string>
-        <string>+blueprint</string>
-        <string>+blueprint-debug</string>
-        <string>+blueprint-form</string>
-        <string>+blueprint-grid</string>
-        <string>+blueprint-ie</string>
-        <string>+blueprint-ie-body</string>
-        <string>+blueprint-ie-defaults</string>
-        <string>+blueprint-ie-hacks</string>
-        <string>+blueprint-interaction</string>
-        <string>+blueprint-liquid-grid</string>
-        <string>+blueprint-print</string>
-        <string>+blueprint-print-body</string>
-        <string>+blueprint-print-defaults</string>
-        <string>+blueprint-scaffolding</string>
-        <string>+blueprint-scaffolding-body</string>
-        <string>+blueprint-scaffolding-defaults</string>
-        <string>+blueprint-show-link-urls</string>
-        <string>+blueprint-typography</string>
-        <string>+blueprint-typography-body</string>
-        <string>+blueprint-typography-defaults</string>
-        <string>+blueprint-utilities</string>
-        <string>+border</string>
-        <string>+box</string>
-        <string>+button-active-colors</string>
-        <string>+button-base</string>
-        <string>+button-button</string>
-        <string>+button-colors</string>
-        <string>+button-hover-colors</string>
-        <string>+caps</string>
-        <string>+clearfix</string>
-        <string>+colborder</string>
-        <string>+colruler</string>
-        <string>+colspacer</string>
-        <string>+column</string>
-        <string>+column-base</string>
-        <string>+comma-delimited-list</string>
-        <string>+container</string>
-        <string>+dquo</string>
-        <string>+error</string>
-        <string>+fancy-paragraphs</string>
-        <string>+fancy-type</string>
-        <string>+feedback-base</string>
-        <string>+fixed-width-text</string>
-        <string>+float</string>
-        <string>+float-left</string>
-        <string>+float-right</string>
-        <string>+global-reset</string>
-        <string>+has-layout</string>
-        <string>+header-text</string>
-        <string>+highlight</string>
-        <string>+horizontal-list</string>
-        <string>+hover-link</string>
-        <string>+incr</string>
-        <string>+inline-block</string>
-        <string>+inline-list</string>
-        <string>+inner-table-borders</string>
-        <string>+last</string>
-        <string>+link-colors</string>
-        <string>+link-icon</string>
-        <string>+link-icon-base</string>
-        <string>+link-icons</string>
-        <string>+loud</string>
-        <string>+nested-reset</string>
-        <string>+no-bullet</string>
-        <string>+no-bullets</string>
-        <string>+no-link-icon</string>
-        <string>+normal-text</string>
-        <string>+notice</string>
-        <string>+nowrap</string>
-        <string>+outer-table-borders</string>
-        <string>+pie-clearfix</string>
-        <string>+prepend</string>
-        <string>+pretty-bullets</string>
-        <string>+print-utilities</string>
-        <string>+pull</string>
-        <string>+pull-margins</string>
-        <string>+push</string>
-        <string>+push-base</string>
-        <string>+push-margins</string>
-        <string>+quiet</string>
-        <string>+removed</string>
-        <string>+replace-text</string>
-        <string>+reset</string>
-        <string>+reset-body-tag</string>
-        <string>+reset-quotation</string>
-        <string>+reset-table</string>
-        <string>+reset-table-cell</string>
-        <string>+rtl-typography</string>
-        <string>+rtl-typography-defaults</string>
-        <string>+showgrid</string>
-        <string>+sibling-indentation</string>
-        <string>+span</string>
-        <string>+sticky-footer</string>
-        <string>+success</string>
-        <string>+table-scaffolding</string>
-        <string>+tag-cloud</string>
-        <string>+unobtrusive-logo</string>
-        <string>+unstyled-link</string>
         
         <!-- @-rules -->
         <string>@charset</string>
@@ -378,9 +238,6 @@
 		<string>vmax</string>
 		<string>vmin</string>
 		<string>vw</string>
-		
-		<string>=</string>
-		<string>+</string>
     </array>
     <key>BBLMPredefinedNameList</key>
     <array>
@@ -409,7 +266,6 @@
         <string>background-position</string>
         <string>background-repeat</string>
         <string>background-size</string>
-        <string>blueprint-utility_classes</string>
         <string>border</string>
         <string>border-bottom</string>
         <string>border-bottom-color</string>
