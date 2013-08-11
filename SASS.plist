@@ -301,61 +301,55 @@
 		<string>@warn</string>
 		<string>@while</string>
 		
-		<!-- Pseudo-classes -->
-		<string>:active</string>
-		<string>:after</string>
-		<string>:before</string>
-		<string>:checked</string>
-		<string>:default</string>
-		<string>:dir</string>
-		<string>:disabled</string>
-		<string>:empty</string>
-		<string>:enabled</string>
-		<string>:first</string>
-		<string>:first-child</string>
-		<string>:first-letter</string>
-		<string>:first-line</string>
-		<string>:first-of-type</string>
-		<string>:focus</string>
-		<string>:fullscreen</string>
-		<string>:hover</string>
-		<string>:indeterminate</string>
-		<string>:in-range</string>
-		<string>:invalid</string>
-		<string>:lang</string>
-		<string>:last-child</string>
-		<string>:last-of-type</string>
-		<string>:left</string>
-		<string>:link</string>
-		<string>:not</string>
-		<string>:nth-child</string>
-		<string>:nth-last-child</string>
-		<string>:nth-last-of-type</string>
-		<string>:nth-of-type</string>
-		<string>:only-child</string>
-		<string>:only-of-type</string>
-		<string>:optional</string>
-		<string>:out-of-range</string>
-		<string>:read-only</string>
-		<string>:read-write</string>
-		<string>:required</string>
-		<string>:right</string>
-		<string>:root</string>
-		<string>:scope</string>
-		<string>:target</string>
-		<string>:valid</string>
-		<string>:visited</string>
-		
-		<!-- Pseudo-elements -->
-		<string>::after</string>
-		<string>::before</string>
-		<string>::choices</string>
-		<string>::first-letter</string>
-		<string>::first-line</string>
-		<string>::repeat-index</string>
-		<string>::repeat-item</string>
-		<string>::selection</string>
-		<string>::value</string>
+		<!-- Pseudo-classes/elements -->
+		<string>active</string>
+		<string>after</string>
+		<string>before</string>
+		<string>checked</string>
+		<string>choices</string>
+		<string>default</string>
+		<string>dir</string>
+		<string>disabled</string>
+		<string>empty</string>
+		<string>enabled</string>
+		<string>first</string>
+		<string>first-child</string>
+		<string>first-letter</string>
+		<string>first-line</string>
+		<string>first-of-type</string>
+		<string>focus</string>
+		<string>fullscreen</string>
+		<string>hover</string>
+		<string>indeterminate</string>
+		<string>in-range</string>
+		<string>invalid</string>
+		<string>lang</string>
+		<string>last-child</string>
+		<string>last-of-type</string>
+		<string>left</string>
+		<string>link</string>
+		<string>not</string>
+		<string>nth-child</string>
+		<string>nth-last-child</string>
+		<string>nth-last-of-type</string>
+		<string>nth-of-type</string>
+		<string>only-child</string>
+		<string>only-of-type</string>
+		<string>optional</string>
+		<string>out-of-range</string>
+		<string>read-only</string>
+		<string>read-write</string>
+		<string>repeat-index</string>
+		<string>repeat-item</string>
+		<string>required</string>
+		<string>right</string>
+		<string>root</string>
+		<string>scope</string>
+		<string>selection</string>
+		<string>target</string>
+		<string>valid</string>
+		<string>value</string>
+		<string>visited</string>
 		
 		<string>=</string>
 		<string>+</string>
