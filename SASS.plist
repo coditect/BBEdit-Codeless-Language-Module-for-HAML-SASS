@@ -488,6 +488,90 @@
         <string>word-wrap</string>
         <string>writing-mode</string>
         <string>z-index</string>
+        <string>zoom</string>
+        
+        <!-- Microsoft-prefixed properties -->
+        <string>-ms-accelerator</string>
+        <string>-ms-background-position-x</string>
+        <string>-ms-background-position-y</string>
+        <string>-ms-behavior</string>
+        <string>-ms-block-progression</string>
+        <string>-ms-content-zoom-chaining</string>
+        <string>-ms-content-zoom-limit</string>
+        <string>-ms-content-zoom-limit-max</string>
+        <string>-ms-content-zoom-limit-min</string>
+        <string>-ms-content-zoom-snap</string>
+        <string>-ms-content-zoom-snap-points</string>
+        <string>-ms-content-zoom-snap-type</string>
+        <string>-ms-content-zooming</string>
+        <string>-ms-filter</string>
+        <string>-ms-flex</string>
+        <string>-ms-flex-align</string>
+        <string>-ms-flex-direction</string>
+        <string>-ms-flex-order</string>
+        <string>-ms-flex-pack</string>
+        <string>-ms-flex-wrap</string>
+        <string>-ms-flow-from</string>
+        <string>-ms-flow-into</string>
+        <string>-ms-grid-column</string>
+        <string>-ms-grid-column-align</string>
+        <string>-ms-grid-column-span</string>
+        <string>-ms-grid-columns</string>
+        <string>-ms-grid-row</string>
+        <string>-ms-grid-row-align</string>
+        <string>-ms-grid-row-span</string>
+        <string>-ms-grid-rows</string>
+        <string>-ms-high-contrast-adjust</string>
+        <string>-ms-hyphenate-limit-chars</string>
+        <string>-ms-hyphenate-limit-lines</string>
+        <string>-ms-hyphenate-limit-zone</string>
+        <string>-ms-hyphens</string>
+        <string>-ms-interpolation-mode</string>
+        <string>-ms-layout-flow</string>
+        <string>-ms-layout-grid</string>
+        <string>-ms-layout-grid-char</string>
+        <string>-ms-layout-grid-line</string>
+        <string>-ms-layout-grid-mode</string>
+        <string>-ms-layout-grid-type</string>
+        <string>-ms-overflow-style</string>
+        <string>-ms-overflow-x</string>
+        <string>-ms-overflow-y</string>
+        <string>-ms-progress-appearance</string>
+        <string>-ms-scroll-chaining</string>
+        <string>-ms-scroll-limit</string>
+        <string>-ms-scroll-limit-x-max</string>
+        <string>-ms-scroll-limit-x-min</string>
+        <string>-ms-scroll-limit-y-max</string>
+        <string>-ms-scroll-limit-y-min</string>
+        <string>-ms-scroll-rails</string>
+        <string>-ms-scroll-snap-points-x</string>
+        <string>-ms-scroll-snap-points-y</string>
+        <string>-ms-scroll-snap-type</string>
+        <string>-ms-scroll-snap-x</string>
+        <string>-ms-scroll-snap-y</string>
+        <string>-ms-scroll-translation</string>
+        <string>-ms-scrollbar-arrow-color</string>
+        <string>-ms-scrollbar-base-color</string>
+        <string>-ms-scrollbar-darkshadow-color</string>
+        <string>-ms-scrollbar-face-color</string>
+        <string>-ms-scrollbar-highlight-color</string>
+        <string>-ms-scrollbar-shadow-color</string>
+        <string>-ms-scrollbar-track-color</string>
+        <string>-ms-text-align-last</string>
+        <string>-ms-text-autospace</string>
+        <string>-ms-text-justify</string>
+        <string>-ms-text-kashida-space</string>
+        <string>-ms-text-overflow</string>
+        <string>-ms-text-underline-position</string>
+        <string>-ms-touch-action</string>
+        <string>-ms-user-select</string>
+        <string>-ms-word-break</string>
+        <string>-ms-word-wrap</string>
+        <string>-ms-wrap-flow</string>
+        <string>-ms-wrap-margin</string>
+        <string>-ms-wrap-through</string>
+        <string>-ms-writing-mode</string>
+        <string>-ms-zoom</string>
         
         <!-- Mozilla-prefixed properties -->
         <string>-moz-animation</string>
@@ -552,6 +636,7 @@
         <string>-moz-script-min-size</string>
         <string>-moz-script-size-multiplier</string>
         <string>-moz-stack-sizing</string>
+        <string>-moz-tab-size</string>
         <string>-moz-text-align-last</string>
         <string>-moz-text-blink</string>
         <string>-moz-text-decoration-color</string>
@@ -572,6 +657,9 @@
         <string>-moz-window-shadow</string>
         
         <!-- Webkit-prefixed properties -->
+        <string>-webkit-align-content</string>
+        <string>-webkit-align-items</string>
+        <string>-webkit-align-self</string>
     	<string>-webkit-animation</string>
     	<string>-webkit-animation-delay</string>
     	<string>-webkit-animation-direction</string>
@@ -581,9 +669,11 @@
     	<string>-webkit-animation-name</string>
     	<string>-webkit-animation-play-state</string>
     	<string>-webkit-animation-timing-function</string>
+    	<string>-webkit-app-region</string>
     	<string>-webkit-appearance</string>
     	<string>-webkit-aspect-ratio</string>
     	<string>-webkit-backface-visibility</string>
+    	<string>-webkit-background-blend-mode</string>
         <string>-webkit-background-clip</string>
         <string>-webkit-background-composite</string>
         <string>-webkit-background-origin</string>
@@ -615,12 +705,14 @@
         <string>-webkit-box-flex</string>
         <string>-webkit-box-flex-group</string>
         <string>-webkit-box-lines</string>
-        <string>-webkit-box-ordinal-groups</string>
+        <string>-webkit-box-ordinal-group</string>
         <string>-webkit-box-orient</string>
         <string>-webkit-box-pack</string>
         <string>-webkit-box-reflect</string>
         <string>-webkit-box-shadow</string>
         <string>-webkit-box-sizing</string>
+        <string>-webkit-clip-path</string>
+        <string>-webkit-color-correction</string>
     	<string>-webkit-columns</string>
     	<string>-webkit-column-axis</string>
     	<string>-webkit-column-break-after</string>
@@ -628,29 +720,49 @@
     	<string>-webkit-column-break-inside</string>
         <string>-webkit-column-count</string>
         <string>-webkit-column-gap</string>
+        <stirng>-webkit-column-progression</string>
         <string>-webkit-column-rule</string>
         <string>-webkit-column-rule-color</string>
         <string>-webkit-column-rule-style</string>
         <string>-webkit-column-rule-width</string>
         <string>-webkit-column-span</string>
         <string>-webkit-column-width</string>
+        <string>-webkit-cursor-visibility</string>
         <string>-webkit-dashboard-region</string>
         <string>-webkit-filter</string>
-        <string>-webkit-font-smoothing</string>
+        <string>-webkit-flex-basis</string>
+        <string>-webkit-flex-direction</string>
+        <string>-webkit-flex-flow</string>
+        <string>-webkit-flex-grow</string>
+        <string>-webkit-flex-shrink</string>
+        <string>-webkit-flex-wrap</string>
+        <string>-webkit-flow-from</string>
+        <string>-webkit-flow-into</string>
         <string>-webkit-font-feature-settings</string>
         <string>-webkit-font-kerning</string>
         <string>-webkit-font-size-delta</string>
+        <string>-webkit-font-smoothing</string>
         <string>-webkit-font-variant-ligatures</string>
+        <string>-webkit-grid-auto-columns</string>
+        <string>-webkit-grid-auto-flow</string>
+        <string>-webkit-grid-auto-rows</string>
         <string>-webkit-grid-column</string>
+        <string>-webkit-grid-column-end</string>
+        <string>-webkit-grid-column-start</string>
         <string>-webkit-grid-columns</string>
+        <string>-webkit-grid-definition-columns</string>
+        <string>-webkit-grid-definition-rows</string>
         <string>-webkit-grid-row</string>
+        <string>-webkit-grid-row-end</string>
+        <string>-webkit-grid-row-start</string>
         <string>-webkit-grid-rows</string>
         <string>-webkit-highlight</string>
-        <string>-webkit-hyphenate-charset</string>
+        <string>-webkit-hyphenate-character</string>
         <string>-webkit-hyphenate-limit-after</string>
         <string>-webkit-hyphenate-limit-before</string>
         <string>-webkit-hyphenate-limit-lines</string>
         <string>-webkit-hyphens</string>
+        <string>-webkit-justify-content</string>
         <string>-webkit-line-align</string>
         <string>-webkit-line-box-contain</string>
         <string>-webkit-line-break</string>
@@ -701,6 +813,7 @@
         <string>-webkit-min-logical-width</string>
         <string>-webkit-nbsp-mode</string>
         <string>-webkit-opacity</string>
+        <string>-webkit-order</string>
         <string>-webkit-overflow-scrolling</string>
         <string>-webkit-padding-after</string>
         <string>-webkit-padding-before</string>
@@ -714,14 +827,21 @@
         <string>-webkit-region-break-after</string>
         <string>-webkit-region-break-before</string>
         <string>-webkit-region-break-inside</string>
+        <string>-webkit-region-fragment</string>
         <string>-webkit-region-overflow</string>
         <string>-webkit-rtl-ordering</string>
+        <string>-webkit-ruby-position</string>
         <string>-webkit-shape-inside</string>
+        <string>-webkit-shape-margin</string>
         <string>-webkit-shape-outside</string>
+        <string>-webkit-shape-padding</string>
         <string>-webkit-svg-shadow</string>
         <string>-webkit-tap-highlight-color</string>
+        <string>-webkit-text-align-last</string>
         <string>-webkit-text-decorations-in-effect</string>
+        <string>-webkit-text-emphasis-position</string>
         <string>-webkit-text-fill-color</string>
+        <string>-webkit-text-justify</string>
         <string>-webkit-text-security</string>
         <string>-webkit-text-size-adjust</string>
         <string>-webkit-text-stroke</string>
@@ -730,18 +850,25 @@
         <string>-webkit-touch-callout</string>
         <string>-webkit-transform</string>
         <string>-webkit-transform-origin</string>
+        <string>-webkit-transform-origin-x</string>
+        <string>-webkit-transform-origin-y</string>
+        <string>-webkit-transform-origin-z</string>
         <string>-webkit-transform-style</string>
         <string>-webkit-transition</string>
         <string>-webkit-transition-delay</string>
         <string>-webkit-transition-duration</string>
         <string>-webkit-transition-property</string>
         <string>-webkit-transition-timing-function</string>
+        <string>-webkit-user-drag</string>
+        <string>-webkit-user-modify</string>
+        <string>-webkit-user-select</string>
+        <string>-webkit-wrap-through</string>
         <string>-epub-caption-side</string>
+        <string>-epub-hyphens</string>
         <string>-epub-text-combine</string>
         <string>-epub-text-emphasis</string>
         <string>-epub-text-emphasis-color</string>
-        <string>-epub-text-emphasis-position</string>
-        <string>-epub-text-emphasis-style</string>
+        <string>-epub-text-emphasis-style</string> 
         <string>-epub-text-orientation</string>
         <string>-epub-text-transform</string>
         <string>-epub-word-break</string>
