@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<!-- Codeless language module for BBEdit / TextWrangler -->
+<!-- See reference at http://www.barebones.com/support/develop/clm.html -->
 <dict>
+
+	<!-- Identification -->
     <key>BBEditDocumentType</key>
     <string>CodelessLanguageModule</string>
     <key>com.barebones.DocumentType</key>
@@ -10,27 +14,36 @@
     <string>SASS</string>
     <key>BBLMLanguageDisplayName</key>
     <string>SASS</string>
+    
+    <!-- File mapping -->
     <key>BBLMSuffixMap</key>
     <array>
         <dict>
             <key>BBLMLanguageSuffix</key>
             <string>.sass</string>
+        </dict>
+        <dict>
 			<key>BBLMLanguageSuffix</key>
 			<string>.scss</string>
         </dict>
     </array>
-    <key>BBLMColorsSyntax</key>
-    <true/>
     <key>BBLMPreferredFilenameExtension</key>
     <string>.scss</string>
+    
+    <!-- Services -->
+    <key>BBLMCanSpellCheckCodeRuns</key>
+    <false/>
     <key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMIsSourceKind</key>
 	<true/>
     <key>BBLMScansFunctions</key>
     <true/>
     <key>BBLMSupportsTextCompletion</key>
     <true/>
-	<key>BBLMIsSourceKind</key>
-	<true/>
+	<!-- Syntax highlighting -->
+    <key>BBLMColorsSyntax</key>
+    <true/>
     <key>BBLMKeywordList</key>
     <array>
         <string>a</string>
@@ -876,6 +889,8 @@
         <string>-epub-word-break</string>
         <string>-epub-writing-mode</string>
     </array>
+    
+    <!-- Language features -->
     <key>Language Features</key>
     <dict>
         <key>Comment Pattern</key>
@@ -911,5 +926,6 @@
 				)
         )]]></string>
     </dict>
+    
 </dict>
 </plist>
