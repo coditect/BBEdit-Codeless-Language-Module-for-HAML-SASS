@@ -351,6 +351,34 @@
 		<string>value</string>
 		<string>visited</string>
 		
+		<!-- Units -->
+		<string>%</string>
+		<string>ch</string>
+		<string>cm</string>
+		<string>deg</string>
+		<string>dpcm</string>
+		<string>dpi</string>
+		<string>dppx</string>
+		<string>em</string>
+		<string>ex</string>
+		<string>grad</string>
+		<string>Hz</string>
+		<string>in</string>
+		<string>kHz</string>
+		<string>mm</string>
+		<string>ms</string>
+		<string>pc</string>
+		<string>pt</string>
+		<string>px</string>
+		<string>rad</string>
+		<string>rem</string>
+		<string>s</string>
+		<string>turn</string>
+		<string>vh</string>
+		<string>vmax</string>
+		<string>vmin</string>
+		<string>vw</string>
+		
 		<string>=</string>
 		<string>+</string>
     </array>
