@@ -276,6 +276,7 @@
     	<string>animation-name</string>
     	<string>animation-play-state</string>
     	<string>animation-timing-function</string>
+    	<string>azimuth</string>
     	<string>backface-visibility</string>
         <string>background</string>
         <string>background-attachment</string>
@@ -345,9 +346,13 @@
         <string>content</string>
         <string>counter-increment</string>
         <string>counter-reset</string>
+        <string>cue</string>
+        <string>cue-after</string>
+        <string>cue-before</string>
         <string>cursor</string>
         <string>direction</string>
         <string>display</string>
+        <string>elevation</string>
         <string>empty-cells</string>
         <string>filter</string>
         <string>flex</string>
@@ -424,13 +429,26 @@
         <string>page-break-after</string>
         <string>page-break-before</string>
         <string>page-break-inside</string>
+        <string>pause</string>
+        <string>pause-after</string>
+        <string>pause-before</string>
         <string>perspective</string>
         <string>perspective-origin</string>
+        <string>pitch</string>
+        <string>pitch-range</string>
+        <string>play-during</string>
         <string>pointer-events</string>
         <string>position</string>
         <string>quotes</string>
         <string>resize</string>
+        <string>richness</string>
         <string>right</string>
+        <string>speak</string>
+        <string>speak-header</string>
+        <string>speak-numeral</string>
+        <string>speak-punctuation</string>
+        <string>speech-rate</string>
+        <string>stress</string>
         <string>table-layout</string>
         <string>tab-size</string>
         <string>tag-cloud_classes</string>
@@ -458,6 +476,8 @@
         <string>unicode-bidi</string>
         <string>vertical-align</string>
         <string>visibility</string>
+        <string>voice-family</string>
+        <string>volume</string>
         <string>white-space</string>
         <string>widows</string>
         <string>width</string>
