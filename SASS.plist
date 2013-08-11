@@ -280,9 +280,24 @@
         <string>+tag-cloud</string>
         <string>+unobtrusive-logo</string>
         <string>+unstyled-link</string>
+        <string>@charset</string>
+        <string>@debug</string>
+        <string>@document</string>
+        <string>@each</string>
+        <string>@extend</string>
+        <string>@font-face</string>
+        <string>@for</string>
+        <string>@if</string>
         <string>@import</string>
-		<string>@mixin</string>
 		<string>@include</string>
+		<string>@keyframes</string>
+		<string>@media</string>
+		<string>@mixin</string>
+		<string>@namespace</string>
+		<string>@page</string>
+		<string>@supports</string>
+		<string>@warn</string>
+		<string>@while</string>
 		<string>=</string>
 		<string>+</string>
     </array>
