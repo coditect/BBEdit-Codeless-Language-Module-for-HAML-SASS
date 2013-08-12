@@ -208,6 +208,15 @@
 		<string>url</string>
 		<string>var</string>
 		
+		<!-- Other keywords -->
+		<string>auto</string>
+		<string>currentColor</string>
+		<string>inherit</string>
+		<string>initial</string>
+		<string>none</string>
+		<string>normal</string>
+		<string>transparent</string>
+		
     </array>
     <key>BBLMPredefinedNameList</key>
     <array>
