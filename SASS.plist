@@ -379,8 +379,72 @@
 		<string>vmin</string>
 		<string>vw</string>
 		
+		<!-- Functional notations -->
+		<string>attr</string>
+		<string>blur</string>
+		<string>brightness</string>
+		<string>calc</string>
+		<string>contrast</string>
+		<string>counter</string>
+		<string>counters</string>
+		<string>cubic-bezier</string>
+		<string>cycle</string>
+		<string>drop-shadow</string>
+		<string>element</string>
+		<string>grayscale</string>
+		<string>hsl</string>
+		<string>hsla</string>
+		<string>hue-rotate</string>
+		<string>image</string>
+		<string>invert</string>
+		<string>linear-gradient</string>
+		<string>matrix</string>
+		<string>matrix3d</string>
+		<string>opacity</string>
+		<string>perspective</string>
+		<string>radial-gradient</string>
+		<string>rect</string>
+		<string>repeating-linear-gradient</string>
+		<string>repeating-radial-gradient</string>
+		<string>rgb</string>
+		<string>rgba</string>
+		<string>rotate</string>
+		<string>rotateX</string>
+		<string>rotateY</string>
+		<string>rotateZ</string>
+		<string>rotate3d</string>
+		<string>saturate</string>
+		<string>scale</string>
+		<string>scaleX</string>
+		<string>scaleY</string>
+		<string>scaleZ</string>
+		<string>scale3d</string>
+		<string>sepia</string>
+		<string>skew</string>
+		<string>skewX</string>
+		<string>skewY</string>
+		<string>steps</string>
+		<string>toggle</string>
+		<string>translate</string>
+		<string>translateX</string>
+		<string>translateY</string>
+		<string>translateZ</string>
+		<string>translate3d</string>
+		<string>url</string>
+		<string>var</string>
+		
+		<!-- Other keywords -->
+		<string>auto</string>
+		<string>currentColor</string>
+		<string>inherit</string>
+		<string>initial</string>
+		<string>none</string>
+		<string>normal</string>
+		<string>transparent</string>
+		
 		<string>=</string>
 		<string>+</string>
+		
     </array>
     <key>BBLMPredefinedNameList</key>
     <array>
