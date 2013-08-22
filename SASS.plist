@@ -216,7 +216,7 @@
 		<string>none</string>
 		<string>normal</string>
 		<string>transparent</string>
-		<string>&</string>
+		<string>&amp;</string>
 		
     </array>
     <key>BBLMPredefinedNameList</key>
@@ -837,7 +837,7 @@
     	
     	<!-- Keywords -->
     	<key>Identifier and Keyword Character Class</key>
-    	<string>-a-zA-Z\.@%&</string>
+    	<string>-a-zA-Z\.@%&amp;</string>
     	
     	<!-- Comments -->
     	<key>Open Block Comments</key>
