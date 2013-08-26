@@ -436,10 +436,13 @@
 		<!-- Other keywords -->
 		<string>auto</string>
 		<string>currentColor</string>
+		<string>default</string>
+		<string>important</string>
 		<string>inherit</string>
 		<string>initial</string>
 		<string>none</string>
 		<string>normal</string>
+		<string>optional</string>
 		<string>transparent</string>
 		
 		<string>=</string>
