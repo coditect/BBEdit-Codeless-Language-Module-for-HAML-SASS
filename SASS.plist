@@ -211,6 +211,7 @@
 		<!-- Other keywords -->
 		<string>auto</string>
 		<string>currentColor</string>
+		<string>important</string>
 		<string>inherit</string>
 		<string>initial</string>
 		<string>none</string>
@@ -837,7 +838,7 @@
     	
     	<!-- Keywords -->
     	<key>Identifier and Keyword Character Class</key>
-    	<string>-a-zA-Z\.@%&amp;</string>
+    	<string>-a-zA-Z_\.@%&amp;</string>
     	
     	<!-- Comments -->
     	<key>Open Block Comments</key>
